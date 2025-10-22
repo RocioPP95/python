@@ -4,9 +4,7 @@ print("CÁLCULO DEL ÍNDICE DE MASA CORPORAL (IMC)")
 peso = float(input("¿Cuánto pesa? "))
 altura = float(input("¿Cuánto mide en metros? "))
 
-
 imc = peso / (altura ** 2)
-
 
 print("Su imc es", round(imc, 2))
 
