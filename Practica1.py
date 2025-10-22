@@ -4,7 +4,6 @@ print("CÁLCULO DE LA MEDIA DE DOS NÚMEROS")
 numero1 = float(input("Escriba un número: "))
 numero2 = float(input("Escriba otro número: "))
 
-# Calcular la media aritmética
 media = (numero1 + numero2) / 2
 
 # Mostrar el resultado
